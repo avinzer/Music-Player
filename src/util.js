@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import { v4 as uuidv4 } from "uuid";
 const ip = "192.168.77.28:3000";
-const local = "localhost:3001";
+const local = "localhost:3000";
 
 const chillHop = () => {
   return [
